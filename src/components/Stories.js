@@ -4,7 +4,7 @@ export default class Stories extends Component {
   render() {
     return (
       <div>
-        heyyyyy
+        Stories
         
       </div>
     )
